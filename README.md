@@ -22,9 +22,9 @@ I'm Aimen Taoussi,🎓 from 1337 42 network 🏛. I'm a passionate learner who's
 
 - 🌱 I’m currently learning Full stack development and UI design.
 
-- 💬 Ask me about anything **[KMH Mubin]((https://linktr.ee/REDX_at))** ! I am happy to help.
+- 💬 Ask me about anything **[REDX-at]((https://linktr.ee/REDX_at))** ! I am happy to help.
 
-- 📫 How to reach me **[KMH Mubin](https://linktr.ee/REDX_at)**
+- 📫 How to reach me **[REDX-at](https://linktr.ee/REDX_at)**
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
