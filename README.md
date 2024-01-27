@@ -30,12 +30,10 @@ I'm Aimen Taoussi,🎓 from 1337 42 network 🏛. I'm a passionate learner who's
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/taoussi_aimen" target="blank"><img align="center" src="https://twitter.com/taoussi_aimen" alt="REDX" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/aimen-taoussi-251684280/" target="blank"><img align="center" src="https://www.linkedin.com/in/aimen-taoussi-251684280/" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://web.facebook.com/Aimeeen.2005/" target="blank"><img align="center" src="https://github.com/REDX-at/REDX-at" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://www.instagram.com/aimeeeeenn/" target="blank"><img align="center" src="https://www.instagram.com/aimeeeeenn/" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://www.instagram.com/aimeeeeenn/" target="blank"><img align="center" src="https://www.instagram.com/aimeeeeenn/" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://dev.to/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/dev.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://twitter.com/taoussi_aimen" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/aimen-taoussi-251684280/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://web.facebook.com/Aimeeen.2005/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://www.instagram.com/aimeeeeenn/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 </p>
 
 <!-- Languages and tools -->
@@ -192,3 +190,4 @@ I'm Aimen Taoussi,🎓 from 1337 42 network 🏛. I'm a passionate learner who's
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/kmhmubin">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
+
