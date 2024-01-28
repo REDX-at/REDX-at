@@ -1,7 +1,7 @@
 ![VADGE 42](https://github.com/REDX-at/REDX-at/assets/84478200/324cf477-b49d-48a4-aa9c-17f3d4baf6e0)
 
 <!-- welcome message -->
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hello world!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <h3>Glad to see you here!</h3>
 
