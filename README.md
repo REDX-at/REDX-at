@@ -1,3 +1,4 @@
+![VADGE 42](https://github.com/REDX-at/REDX-at/assets/84478200/324cf477-b49d-48a4-aa9c-17f3d4baf6e0)
 ![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg)
 
 <!-- welcome message -->
