@@ -20,7 +20,7 @@ I'm Aimen Taoussi,🎓 from 1337 42 network 🏛. I'm a passionate learner who's
 
 - 💬 Ask me about anything **[REDX-at]((https://linktr.ee/REDX_at))** ! I am happy to help.
 
-- 📫 How to reach me **[REDX-at](https://linktr.ee/REDX_at)**
+- 📫 How to reach me **[REDX-at](https://linktr.ee/REDX_at)** || taoussi.aimen@gmail.com
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
