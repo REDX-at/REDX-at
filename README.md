@@ -60,4 +60,4 @@ I'm <b>Aimen Taoussi</b> 🎓, a student at <b>1337 (42 Network)</b> and a passi
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-<em><b>I love connecting with people from all over the world. If you're passionate about tech, design, or just want to say hi, feel free to <a href="https://twitter.com/taoussi_aimen">reach out</a> — but don’t just say hi, tell me your story!</b> 😊💜</em>
+<em><b>I love connecting with people from all over the world. If you're passionate about tech, design, or just want to say hi, feel free to <a href="https://www.linkedin.com/in/aimen-taoussi-251684280/">reach out</a> — but don’t just say hi, tell me your story!</b> 😊💜</em>
