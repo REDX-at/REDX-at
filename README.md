@@ -26,7 +26,6 @@ I'm <b>Aimen Taoussi</b> 🎓, a student at <b>1337 (42 Network)</b> and a passi
   <a href="https://www.linkedin.com/in/aimen-taoussi-251684280/" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" height="30" width="30"/></a>
   <a href="https://web.facebook.com/Aimeeen.2005/" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" height="30" width="30"/></a>
   <a href="https://www.instagram.com/aimeeeeenn/" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" height="30" width="30"/></a>
-  <a href="https://linktr.ee/REDX_at" target="_blank"><img src="https://www.vectorlogo.zone/logos/linktree/linktree-icon.svg" height="30" width="30"/></a>
 </p>
 
 <!-- Tools & Tech -->
